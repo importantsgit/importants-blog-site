@@ -7,9 +7,9 @@ description: "아파트나 연립주택에 전세·월세로 살다 이사할 �
 tags: [장기수선충당금, 장기수선충당금반환, 이사정산, 관리비]
 categories: [지원금]
 sourceUrl: "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=5&cciNo=3&cnpClsNo=3"
-# cover:
-#   image: "/images/covers/long-term-repair-reserve-refund-2026.jpg"
-#   alt: "이사박스와 아파트, 관리비 고지서와 돈을 주고받는 손을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/long-term-repair-reserve-refund-2026.jpg"
+  alt: "이사박스와 아파트, 관리비 고지서와 돈을 주고받는 손을 나란히 배치한 일러스트"
 faq:
   - q: 전세든 월세든 상관없이 장기수선충당금을 돌려받을 수 있나요?
     a: 네. 임차인이 관리비와 함께 소유자를 대신해 낸 경우라면 전세든 월세든 상관없이 해당합니다. 공동주택관리법 시행령 제31조 제8항에 따라 소유자가 그 금액을 반환해야 할 의무가 있습니다.
