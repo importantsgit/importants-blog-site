@@ -7,9 +7,9 @@ description: "국회 정무위원회 김용만 의원이 예금보험공사에�
 tags: [착오송금반환지원, 예금보험공사, 착오송금환급, 잘못보낸돈찾기]
 categories: [지원금]
 sourceUrl: "https://biz.heraldcorp.com/article/10876812"
-# cover:
-#   image: "/images/covers/mistaken-transfer-refund-support-2026.jpg"
-#   alt: "스마트폰 계좌이체 화면과 잘못된 방향을 가리키는 화살표, 돈뭉치, 서류 뭉치를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/mistaken-transfer-refund-support-2026.jpg"
+  alt: "스마트폰 계좌이체 화면과 잘못된 방향을 가리키는 화살표, 돈뭉치, 서류 뭉치를 나란히 배치한 일러스트"
 faq:
   - q: 토스나 카카오페이 같은 간편송금으로 잘못 보낸 돈도 반환지원을 신청할 수 있나요?
     a: 신청할 수 있습니다. 이체에 이용한 금융회사나 간편송금업체에 먼저 반환을 요청한 뒤에도 돌려받지 못했다면 예금보험공사에 반환지원을 신청할 수 있고, 대상 금액 기준(5만원 이상 1억원 이하)은 은행 계좌이체와 동일하게 적용됩니다.
