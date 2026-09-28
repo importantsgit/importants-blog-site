@@ -1,9 +1,9 @@
 ---
-title: "모두의카드(K-패스) 환급액 계산기: 9월 이용분 한시 확대 기준"
+title: "모두의카드(K-패스) 환급액 계산기 9월 확대"
 date: 2026-09-07T09:00:00+09:00
 draft: false
 slug: "kpass-refund-calculator"
-description: "한 달 교통비와 이용 횟수만 넣으면 모두의카드(K-패스) 환급액을 계산합니다. 2026년 9월 이용분까지 적용되는 한시 확대 기준으로, 정률제와 정액제 중 유리한 쪽을 함께 보여드립니다."
+description: "9월 이용분까지 한시 확대 기준으로 환급액을 계산합니다. 교통비와 이용 횟수를 넣으면 정률·정액제를 비교합니다."
 tags: [모두의카드, K패스, 대중교통, 계산기]
 categories: [복지]
 layout: "kpass-refund-calculator"
