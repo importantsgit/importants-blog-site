@@ -6,9 +6,9 @@ slug: "yearend-tax-preview-service-2026"
 description: "국세청 홈택스 연말정산 미리보기 서비스는 1~9월 신용카드 사용액과 작년 연말정산 신고 내용을 바탕으로 다음 해 1월 환급세액을 미리 계산해 줍니다. 2023년 귀속은 10월 31일, 2025년 귀속은 11월 5일에 열렸고 올해도 비슷한 시기에 열릴 것으로 보입니다. 접속 경로와 확인할 수 있는 항목, 남은 석 달 동안 뭘 더 챙겨야 하는지 정리했습니다."
 tags: [연말정산미리보기, 홈택스, 신용카드소득공제, 연말정산환급]
 categories: [세금]
-# cover:
-#   image: "/images/covers/yearend-tax-preview-service-2026.jpg"
-#   alt: "홈택스 화면과 신용카드, 달력, 위로 향하는 그래프를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/yearend-tax-preview-service-2026.jpg"
+  alt: "홈택스 화면과 신용카드, 달력, 위로 향하는 그래프를 나란히 배치한 일러스트"
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148954010"
 faq:
   - q: 연말정산 미리보기 서비스는 언제 열리나요?
