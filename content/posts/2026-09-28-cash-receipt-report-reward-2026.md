@@ -7,9 +7,9 @@ description: "국세청 고시 제2026-21호(2026년 6월 15일 시행)에 따�
 tags: [현금영수증신고포상금, 현금영수증미발급, 국세청신고포상금, 현금영수증발급거부]
 categories: [세금]
 sourceUrl: "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04339446645543712"
-# cover:
-#   image: "/images/covers/cash-receipt-report-reward-2026.jpg"
-#   alt: "현금영수증과 스마트폰 신고 화면, 돈 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/cash-receipt-report-reward-2026.jpg"
+  alt: "현금영수증과 스마트폰 신고 화면, 돈 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 현금 결제하고 영수증 안 줘도 무조건 신고할 수 있나요?
     a: 두 가지로 나뉩니다. 소비자가 요청했는데 발급을 거부하면 금액과 상관없이 신고할 수 있고, 건당 10만원 이상 현금거래인데 의무발행업종 사업자가 알아서 발급하지 않았다면 미발급 신고 대상입니다.
