@@ -7,9 +7,9 @@ description: "금융위원회가 2026년 7월 발표한 자료에 따르면 지�
 tags: [숨은보험금찾기, 내보험찾아줌, 휴면예금찾아줌, 숨은보험금]
 categories: [지원금]
 sourceUrl: "https://biz.heraldcorp.com/article/10800655"
-# cover:
-#   image: "/images/covers/hidden-insurance-money-2026.jpg"
-#   alt: "보험 증서와 스마트폰 조회 화면, 동전과 돋보기를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/hidden-insurance-money-2026.jpg"
+  alt: "보험 증서와 스마트폰 조회 화면, 동전과 돋보기를 나란히 배치한 일러스트"
 faq:
   - q: 숨은보험금 찾기는 어디서 하나요?
     a: 생명보험협회와 손해보험협회가 함께 운영하는 내보험찾아줌(cont.insure.or.kr)에서 공동인증서나 아이핀, 휴대폰 인증으로 본인 확인을 하면 조회부터 청구까지 할 수 있습니다. 소멸시효가 지나 서민금융진흥원으로 넘어간 돈은 휴면예금찾아줌(sleepmoney.kinfa.or.kr)에서 따로 확인해야 합니다.
