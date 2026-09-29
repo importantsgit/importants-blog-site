@@ -6,9 +6,9 @@ slug: "national-health-checkup-target-2026"
 description: "2026년 국가건강검진(일반건강검진) 대상은 출생연도 끝자리가 짝수인 사람입니다. 비사무직 직장가입자는 매년 대상이고요. 2026년 1월부터는 만 56세·66세에게 폐기능검사가 새로 추가됐습니다. 대상 여부 확인 방법과 대상이 아닐 때 어떻게 되는지까지 정리했습니다."
 tags: [국가건강검진대상자, 2026년국가건강검진, 폐기능검사, 건강검진대상자조회, 건강iN]
 categories: [복지]
-# cover:
-#   image: "/images/covers/national-health-checkup-target-2026.jpg"
-#   alt: "달력의 짝수 연도와 청진기, 폐 모양 아이콘을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/national-health-checkup-target-2026.jpg"
+  alt: "달력의 짝수 연도와 청진기, 폐 모양 아이콘을 나란히 배치한 일러스트"
 sourceUrl: "https://www.mohw.go.kr/board.es?mid=a10503010200&bid=0027&act=view&list_no=1487450"
 faq:
   - q: 국가건강검진 대상자 조회는 어디서 하나요?
