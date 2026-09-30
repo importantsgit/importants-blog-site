@@ -7,9 +7,9 @@ description: "근로소득 원천징수영수증은 홈택스 PC에서 발급하
 tags: [원천징수영수증, 홈택스, 지급명세서, 근로소득, 사업소득]
 categories: [세금]
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148887069"
-# cover:
-#   image: "/images/covers/withholding-tax-receipt-hometax-2026.jpg"
-#   alt: "홈택스 화면과 영수증 서류, 돋보기, 동전을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/withholding-tax-receipt-hometax-2026.jpg"
+  alt: "홈택스 화면과 영수증 서류, 돋보기, 동전을 나란히 배치한 일러스트"
 faq:
   - q: 원천징수영수증은 어디서 발급받나요?
     a: 홈택스(hometax.go.kr) PC에서 연말정산/장려금/학자금 메뉴의 지급명세서등 제출내역으로 들어가 본인 인증을 하면 확인하고 출력할 수 있습니다. 공동인증서나 금융인증서가 필요합니다.
