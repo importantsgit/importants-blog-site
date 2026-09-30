@@ -7,9 +7,9 @@ description: "카드포인트 조회는 카드사 앱을 하나씩 열지 않아
 tags: [카드포인트조회, 카드포인트통합조회, 카드포인트현금화, 여신금융협회]
 categories: [지원금]
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148882096"
-# cover:
-#   image: "/images/covers/card-point-lookup-cash-2026.jpg"
-#   alt: "여러 장의 신용카드와 스마트폰 조회 화면, 계좌로 들어오는 동전을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/card-point-lookup-cash-2026.jpg"
+  alt: "여러 장의 신용카드와 스마트폰 조회 화면, 저금통에 모이는 동전을 나란히 배치한 일러스트"
 faq:
   - q: 카드포인트 조회는 카드사마다 따로 해야 하나요?
     a: 아닙니다. 여신금융협회 카드포인트 통합조회(cardpoint.or.kr)에서 본인 인증을 한 번 하면 롯데, BC, 삼성, 신한, 우리, 하나, 현대, KB국민, NH농협, 씨티, 우체국 11개사의 대표 포인트를 한 화면에서 볼 수 있습니다.
