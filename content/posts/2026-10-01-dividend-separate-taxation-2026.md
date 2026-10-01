@@ -7,9 +7,9 @@ description: "배당소득 분리과세는 2026년 1월 1일 이후 받은 고�
 tags: [배당소득, 분리과세, 금융소득종합과세, 종합소득세, 배당주]
 categories: [세금]
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148960552"
-# cover:
-#   image: "/images/covers/dividend-separate-taxation-2026.jpg"
-#   alt: "배당금 봉투와 신청서, 계산기, 동전을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/dividend-separate-taxation-2026.jpg"
+  alt: "배당금 봉투와 신청서, 계산기, 동전을 나란히 배치한 일러스트"
 faq:
   - q: 배당소득 분리과세는 자동으로 적용되나요?
     a: 자동으로 적용되지 않습니다. 종합소득세를 신고할 때 분리과세 신청서를 반드시 제출해야 하고, 2026년에 받은 배당은 2027년 5월 신고 때 신청합니다.
