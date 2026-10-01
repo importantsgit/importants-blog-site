@@ -7,9 +7,9 @@ description: "부모님이나 배우자가 세상을 떠난 뒤 어느 은행에
 tags: [상속인금융거래조회, 안심상속, 사망자재산조회, 상속, 정부24]
 categories: [세금]
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148931775"
-# cover:
-#   image: "/images/covers/heir-financial-transaction-inquiry-2026.jpg"
-#   alt: "통장과 서류, 돋보기, 열쇠를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/heir-financial-transaction-inquiry-2026.jpg"
+  alt: "통장과 서류, 돋보기, 열쇠를 나란히 배치한 일러스트"
 faq:
   - q: 상속인 금융거래 조회는 사망 후 언제까지 신청할 수 있나요?
     a: 안심상속 원스톱 서비스는 사망일이 속한 달의 말일부터 1년 이내에 신청할 수 있습니다. 예를 들어 9월 10일에 돌아가셨다면 9월 30일부터 1년이니 다음 해 9월 30일까지입니다.
