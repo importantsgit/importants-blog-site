@@ -7,9 +7,9 @@ description: "개인 일반과세자가 올해 7~9월에 설비를 사서 매입
 tags: [부가세, 부가가치세환급, 조기환급, 예정신고, 개인사업자, 자영업자]
 categories: [세금]
 sourceUrl: "https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=1329"
-# cover:
-#   image: "/images/covers/vat-early-refund-preliminary-2026.jpg"
-#   alt: "영수증과 계산기, 세금계산서, 동전 꾸러미를 나란히 놓은 일러스트"
+cover:
+  image: "/images/covers/vat-early-refund-preliminary-2026.jpg"
+  alt: "영수증과 계산기, 세금계산서, 동전 꾸러미를 나란히 놓은 일러스트"
 faq:
   - q: 개인사업자도 부가세 환급을 받을 수 있나요?
     a: 일반과세자라면 받을 수 있습니다. 매출에 붙은 부가세보다 사업에 쓴 매입의 부가세가 크면 그 차액이 환급세액이 됩니다. 간이과세자는 공제세액이 납부세액을 넘어도 초과분이 없는 것으로 보기 때문에 환급이 없습니다.
