@@ -7,9 +7,9 @@ description: "연말정산 인적공제는 부양가족의 나이와 소득이 �
 tags: [연말정산, 인적공제, 부양가족공제, 맞벌이, 중복공제]
 categories: [세금]
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148958494"
-# cover:
-#   image: "/images/covers/yearend-tax-dependent-deduction-2026.jpg"
-#   alt: "가족 구성원 아이콘과 서류, 체크 표시, 계산기를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/yearend-tax-dependent-deduction-2026.jpg"
+  alt: "가족 구성원 아이콘과 서류, 체크 표시, 계산기를 나란히 배치한 일러스트"
 faq:
   - q: 부모님이 따로 살아도 부양가족으로 공제받을 수 있나요?
     a: 받을 수 있습니다. 국세청 안내에 따르면 주거 형편에 따라 따로 살아도 생계를 같이하는 것으로 보고, 생활비를 보낸 내역 같은 실제 부양 사실이 핵심입니다. 부모님은 만 60세 이상이고 연간 소득금액이 100만원 이하여야 합니다.
