@@ -7,9 +7,9 @@ description: "기부금 세액공제는 1천만원까지 15%, 초과분은 30%�
 tags: [기부금세액공제, 연말정산, 종교단체기부금, 기부금영수증, 세액공제]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=239040&mi=40978"
-# cover:
-#   image: "/images/covers/donation-tax-credit-limit-2026.jpg"
-#   alt: "기부금 영수증과 하트가 담긴 상자, 계산기, 달력을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/donation-tax-credit-limit-2026.jpg"
+  alt: "기부금 영수증과 하트가 담긴 상자, 계산기, 달력을 나란히 배치한 일러스트"
 faq:
   - q: 교회에 낸 헌금도 연말정산에서 돌려받을 수 있나요?
     a: 받을 수 있습니다. 주무관청에 등록된 비영리법인인 종교단체에 낸 기부금은 일반기부금으로 세액공제 대상입니다. 다만 종교단체에만 기부했다면 한도는 소득금액의 10%이고, 한도를 넘은 금액은 다음 해부터 10년 안에 이월해서 공제받습니다.
