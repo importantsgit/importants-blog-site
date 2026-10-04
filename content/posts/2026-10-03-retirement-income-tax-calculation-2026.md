@@ -7,9 +7,9 @@ description: "퇴직소득세 계산 순서와 근속연수공제, 환산급여�
 tags: [퇴직소득세, 퇴직금세금, 퇴직소득세계산, 이연퇴직소득세, IRP, 직장인]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6444&cntntsId=7880"
-# cover:
-#   image: "/images/covers/retirement-income-tax-calculation-2026.jpg"
-#   alt: "퇴직금 봉투와 계산기, 달력, 저금통을 나란히 놓은 일러스트"
+cover:
+  image: "/images/covers/retirement-income-tax-calculation-2026.jpg"
+  alt: "퇴직금 봉투와 계산기, 달력, 저금통을 나란히 놓은 일러스트"
 faq:
   - q: 퇴직금을 받으면 세금은 어떻게 계산하나요?
     a: 퇴직소득금액에서 근속연수공제를 빼고 12를 곱한 뒤 근속연수로 나눠 환산급여를 구합니다. 여기서 환산급여공제를 빼면 과세표준이고, 기본세율을 곱한 값을 다시 12로 나눠 근속연수를 곱하면 산출세액입니다.
