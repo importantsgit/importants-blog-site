@@ -7,9 +7,9 @@ description: "중소기업 취업자 소득세 감면은 청년이면 취업일�
 tags: [중소기업취업자소득세감면, 청년소득세감면, 경정청구, 연말정산, 근로소득세]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40632&cntntsId=239023"
-# cover:
-#   image: "/images/covers/sme-employee-income-tax-reduction-2026.jpg"
-#   alt: "급여명세서와 서류, 체크 표시, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/sme-employee-income-tax-reduction-2026.jpg"
+  alt: "급여명세서와 서류, 체크 표시, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 중소기업 취업자 소득세 감면은 얼마나 깎아 주나요?
     a: 청년(근로계약 체결일 현재 15~34세)은 취업일부터 5년간 소득세의 90%를 감면받고, 감면액은 한 해 200만원까지입니다. 병역을 마쳤다면 복무기간(최대 6년)을 나이에서 빼고 계산합니다.
