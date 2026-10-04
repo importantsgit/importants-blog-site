@@ -7,9 +7,9 @@ description: "개인 일반과세자는 10월 26일까지 부가세 예정고지
 tags: [부가세, 부가세예정고지, 납부기한연장, 개인사업자, 자영업자, 일반과세자]
 categories: [세금]
 sourceUrl: "https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=1329"
-# cover:
-#   image: "/images/covers/vat-preliminary-notice-extension-2026.jpg"
-#   alt: "달력과 고지서, 계산기, 돈주머니를 나란히 놓은 일러스트"
+cover:
+  image: "/images/covers/vat-preliminary-notice-extension-2026.jpg"
+  alt: "달력과 고지서, 계산기, 돈주머니를 나란히 놓은 일러스트"
 faq:
   - q: 부가세 예정고지는 얼마가 나오나요?
     a: 직전 과세기간 납부세액의 2분의 1이 고지됩니다. 이 금액이 50만원 미만이면 고지서가 나오지 않고 확정신고 때 한꺼번에 정산합니다.
