@@ -7,9 +7,9 @@ description: "현금영수증 소득공제는 총급여의 25%를 넘게 쓴 금
 tags: [현금영수증소득공제, 연말정산, 소득공제, 현금영수증용도변경, 신용카드소득공제]
 categories: [세금]
 sourceUrl: "https://www.gov.kr/portal/service/serviceInfo/PTR000050425"
-# cover:
-#   image: "/images/covers/cash-receipt-income-deduction-2026.jpg"
-#   alt: "현금영수증과 휴대폰, 퍼센트 기호, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/cash-receipt-income-deduction-2026.jpg"
+  alt: "현금영수증과 휴대폰, 퍼센트 기호, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 현금영수증 소득공제율은 얼마인가요?
     a: 총급여의 25%를 넘게 쓴 금액에 대해 사용액의 30%를 공제받습니다. 25%까지는 공제 대상이 아닙니다.
