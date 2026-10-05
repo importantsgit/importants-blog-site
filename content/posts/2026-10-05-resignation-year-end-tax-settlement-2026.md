@@ -7,9 +7,9 @@ description: "퇴사 후 연말정산은 같은 해에 재취업했는지에 따
 tags: [퇴사후연말정산, 중도퇴사연말정산, 이직연말정산, 종합소득세, 근로소득원천징수영수증]
 categories: [세금]
 sourceUrl: "https://call.nts.go.kr/call/qna/selectHomeQnaInfo.do?mi=3555"
-# cover:
-#   image: "/images/covers/resignation-year-end-tax-settlement-2026.jpg"
-#   alt: "짐 상자와 원천징수영수증, 달력, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/resignation-year-end-tax-settlement-2026.jpg"
+  alt: "짐 상자와 원천징수영수증, 달력, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 퇴사하고 재취업하지 않으면 연말정산은 어떻게 하나요?
     a: 퇴사한 회사가 퇴직하는 달 급여를 줄 때 정산을 마칩니다. 이후 놓친 공제가 있다면 다음 해 5월 정기신고 기간에 홈택스에서 근로소득 신고를 해서 돌려받습니다.
