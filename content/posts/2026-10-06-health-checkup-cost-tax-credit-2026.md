@@ -7,9 +7,9 @@ description: "국가건강검진 비용은 일반검진이 무료이고 위암·
 tags: [건강검진비용, 국가건강검진비용, 암검진본인부담금, 종합건강검진비용, 의료비세액공제, 연말정산]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7874"
-# cover:
-#   image: "/images/covers/health-checkup-cost-tax-credit-2026.jpg"
-#   alt: "청진기와 영수증, 퍼센트 기호, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/health-checkup-cost-tax-credit-2026.jpg"
+  alt: "청진기와 영수증, 퍼센트 기호, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 국가건강검진은 정말 돈을 한 푼도 안 내나요?
     a: 일반건강검진은 대상 해에 받으면 본인부담이 없습니다. 암검진은 건강보험료 상위 50%가 비용의 10%를 내고, 대장암과 자궁경부암 검사는 모두 무료입니다.
