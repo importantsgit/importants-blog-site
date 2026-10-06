@@ -7,9 +7,9 @@ description: "연말정산 소득공제는 공제액이 그대로 환급되지 �
 tags: [연말정산소득공제, 소득공제, 과세표준, 소득세율, 연말정산환급]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6594&cntntsId=7873"
-# cover:
-#   image: "/images/covers/yearend-income-deduction-tax-bracket-2026.jpg"
-#   alt: "계산기와 세율 구간 계단 그래프, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/yearend-income-deduction-tax-bracket-2026.jpg"
+  alt: "계산기와 세율 구간 계단 그래프, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 소득공제 100만원을 받으면 환급액이 100만원인가요?
     a: 아닙니다. 소득공제는 세금이 아니라 세금을 매기는 소득을 줄여 주는 제도라서, 줄어든 소득에 내 구간의 세율을 곱한 만큼만 세금이 줄어듭니다. 15% 구간이면 100만원 공제에 15만원, 24% 구간이면 24만원입니다.
