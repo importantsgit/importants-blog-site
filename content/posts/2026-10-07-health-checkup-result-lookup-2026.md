@@ -7,9 +7,9 @@ description: "건강검진 결과 조회는 국민건강보험공단 홈페이�
 tags: [건강검진결과조회, 건강검진결과, 국가건강검진, 결과통보서, 건강iN]
 categories: [복지]
 sourceUrl: "https://www.nhis.or.kr/nhis/healthin/wbhaca04500m01.do"
-# cover:
-#   image: "/images/covers/health-checkup-result-lookup-2026.jpg"
-#   alt: "검진 결과지와 스마트폰 조회 화면, 우편 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/health-checkup-result-lookup-2026.jpg"
+  alt: "검진 결과지와 스마트폰 조회 화면, 우편 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 건강검진 결과는 언제 나오나요?
     a: 검진기관이 검진을 완료한 뒤 15일 이내에 결과통보서를 작성해 우편이나 이메일로 알립니다. 15일이 지나도 연락이 없으면 검진받은 기관에 먼저 문의하시면 됩니다.
