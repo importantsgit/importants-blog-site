@@ -7,9 +7,9 @@ description: "연말정산 환급금은 국세청이 아니라 회사가 다음 
 tags: [연말정산환급금, 연말정산환급일, 연말정산분납, 연말정산추가납부, 지급명세서]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?mi=2201&bbsId=1028&nttSn=1349564"
-# cover:
-#   image: "/images/covers/yearend-tax-refund-payment-date-2026.jpg"
-#   alt: "달력과 월급 봉투, 홈택스 조회 화면, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/yearend-tax-refund-payment-date-2026.jpg"
+  alt: "달력과 월급 봉투, 홈택스 조회 화면, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 연말정산 환급금은 국세청에서 입금해 주나요?
     a: 대부분 회사가 줍니다. 회사가 다음 해 2월분 급여를 지급할 때 연말정산 결과를 반영해 환급액을 급여와 함께 주는 것이 기본입니다. 회사가 국세청에 환급을 신청하면 국세청이 회사에 환급금을 보내고, 회사가 그 돈을 근로자에게 줍니다.
