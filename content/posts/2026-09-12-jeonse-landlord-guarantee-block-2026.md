@@ -1,9 +1,9 @@
 ---
-title: "전세금 떼먹은 집주인 10월 3사 보증가입 제한"
+title: "전세금 떼먹은 집주인 10월 3사 보증가입"
 date: 2026-09-12T09:00:00+09:00
 draft: false
 slug: "jeonse-landlord-guarantee-block-2026"
-description: "전세금 미반환 임대인은 10월 1일부터 HF·HUG·SGI 보증 가입이 제한됩니다. 9월 21일부터 앱 사전 확인도 됩니다."
+description: "전세금 미반환 임대인은 10월 1일부터 3사 보증 가입이 제한됩니다. 앱 사전 확인 일정도 안내합니다."
 tags: [전세보증금반환보증, 안심전세앱, 전세사기예방, HUG]
 categories: [복지]
 sourceUrl: "https://www.fnnews.com/news/202609071405397818"
