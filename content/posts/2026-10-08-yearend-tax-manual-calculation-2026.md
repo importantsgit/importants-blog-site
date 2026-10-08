@@ -7,9 +7,9 @@ description: "연말정산 세금은 총급여에서 근로소득공제를 빼�
 tags: [연말정산계산기, 연말정산계산, 근로소득공제, 과세표준, 산출세액]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7870&mi=6434"
-# cover:
-#   image: "/images/covers/yearend-tax-manual-calculation-2026.jpg"
-#   alt: "계산기와 급여명세서, 구간표 계단, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/yearend-tax-manual-calculation-2026.jpg"
+  alt: "계산기와 급여명세서, 구간표 계단, 돌아오는 환급 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 연말정산 계산기 없이 세금을 직접 계산할 수 있나요?
     a: 총급여, 소득공제 합계, 매달 떼인 세금 세 가지를 알면 직접 계산할 수 있습니다. 총급여에서 근로소득공제와 소득공제를 빼 과세표준을 구하고 기본세율을 곱하면 산출세액이 나옵니다. 여기서 세액공제를 빼면 결정세액이고, 그 결정세액과 이미 낸 세금의 차이가 환급이나 추가 납부입니다.
