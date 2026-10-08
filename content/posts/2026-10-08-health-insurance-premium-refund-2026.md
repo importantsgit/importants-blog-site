@@ -7,9 +7,9 @@ description: "국민건강보험공단이 10월 1일부터 11월 30일까지 찾
 tags: [건강보험료환급, 건강보험료환급금조회, 국민건강보험공단, 환급금집중지급, 사전계좌동의]
 categories: [복지]
 sourceUrl: "https://www.gov.kr/portal/service/serviceInfo/PTR000050351"
-# cover:
-#   image: "/images/covers/health-insurance-premium-refund-2026.jpg"
-#   alt: "건강보험증과 돋보기, 통장, 돌아오는 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/health-insurance-premium-refund-2026.jpg"
+  alt: "건강보험증과 돋보기, 통장, 돌아오는 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 건강보험료 환급금은 어떤 경우에 생기나요?
     a: 보험료를 이중으로 내거나 착오로 낸 경우, 자격이 소급해서 없어졌거나 보험료가 소급 조정된 경우에 생깁니다. 정부24 안내는 체납 보험료가 있으면 먼저 상계하고 남은 금액만 지급한다고 적고 있습니다.
